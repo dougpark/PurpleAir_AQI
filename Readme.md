@@ -33,4 +33,4 @@ Join in on the Raspberry Pi Zero fun while exploring a whole host of cool tech! 
 - Blinka
 - Flask
 - DotMap
-- PurpleAir
+- PurpleAir API
