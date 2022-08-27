@@ -1,0 +1,592 @@
+2022-08-26 17:42:01,061 Started
+2022-08-26 17:42:01,063 running stats.py
+2022-08-26 17:42:01,620 Verifying read api key: A3FCC4CC-222F-11ED-B5AA-42010A800006
+2022-08-26 17:42:01,700 Starting new HTTPS connection (1): api.purpleair.com:443
+2022-08-26 17:42:18,431 https://api.purpleair.com:443 "GET /v1/keys HTTP/1.1" 201 94
+2022-08-26 17:42:18,643 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3403
+2022-08-26 17:42:18,669 Refresh rate: 300
+2022-08-26 17:47:59,794 Resetting dropped connection: api.purpleair.com
+2022-08-26 17:48:05,448 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 17:48:05,467 New data received from PurpleAir api.
+2022-08-26 17:53:46,971 Resetting dropped connection: api.purpleair.com
+2022-08-26 17:53:47,388 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 17:53:47,402 New data received from PurpleAir api.
+2022-08-26 17:59:25,630 Resetting dropped connection: api.purpleair.com
+2022-08-26 17:59:31,116 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3410
+2022-08-26 17:59:31,150 New data received from PurpleAir api.
+2022-08-26 18:05:13,169 Resetting dropped connection: api.purpleair.com
+2022-08-26 18:05:18,672 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 18:05:18,690 New data received from PurpleAir api.
+2022-08-26 18:11:00,300 Resetting dropped connection: api.purpleair.com
+2022-08-26 18:11:00,925 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 18:11:00,939 New data received from PurpleAir api.
+2022-08-26 18:16:42,970 Resetting dropped connection: api.purpleair.com
+2022-08-26 18:16:48,615 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 18:16:48,633 New data received from PurpleAir api.
+2022-08-26 18:22:30,638 Resetting dropped connection: api.purpleair.com
+2022-08-26 18:22:36,264 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 18:22:36,279 New data received from PurpleAir api.
+2022-08-26 18:28:18,076 Resetting dropped connection: api.purpleair.com
+2022-08-26 18:28:23,596 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 18:28:23,615 New data received from PurpleAir api.
+2022-08-26 18:34:05,362 Resetting dropped connection: api.purpleair.com
+2022-08-26 18:34:10,891 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 18:34:10,905 New data received from PurpleAir api.
+2022-08-26 18:39:48,666 Resetting dropped connection: api.purpleair.com
+2022-08-26 18:39:54,087 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 18:39:54,105 New data received from PurpleAir api.
+2022-08-26 18:45:32,398 Resetting dropped connection: api.purpleair.com
+2022-08-26 18:45:37,808 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 18:45:37,826 New data received from PurpleAir api.
+2022-08-26 18:51:16,248 Resetting dropped connection: api.purpleair.com
+2022-08-26 18:51:21,822 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 18:51:21,835 New data received from PurpleAir api.
+2022-08-26 18:57:00,099 Resetting dropped connection: api.purpleair.com
+2022-08-26 18:57:05,681 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 18:57:05,700 New data received from PurpleAir api.
+2022-08-26 19:02:44,460 Resetting dropped connection: api.purpleair.com
+2022-08-26 19:02:49,863 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 19:02:49,877 New data received from PurpleAir api.
+2022-08-26 19:08:31,484 Resetting dropped connection: api.purpleair.com
+2022-08-26 19:08:36,934 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 19:08:36,953 New data received from PurpleAir api.
+2022-08-26 19:14:14,928 Resetting dropped connection: api.purpleair.com
+2022-08-26 19:14:20,332 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 19:14:20,353 New data received from PurpleAir api.
+2022-08-26 19:19:58,217 Resetting dropped connection: api.purpleair.com
+2022-08-26 19:20:07,509 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 19:20:07,523 New data received from PurpleAir api.
+2022-08-26 19:25:48,620 Resetting dropped connection: api.purpleair.com
+2022-08-26 19:25:54,124 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 19:25:54,157 New data received from PurpleAir api.
+2022-08-26 19:31:32,356 Resetting dropped connection: api.purpleair.com
+2022-08-26 19:31:32,769 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 19:31:32,792 New data received from PurpleAir api.
+2022-08-26 19:37:10,911 Resetting dropped connection: api.purpleair.com
+2022-08-26 19:37:11,524 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 19:37:11,538 New data received from PurpleAir api.
+2022-08-26 19:42:53,196 Resetting dropped connection: api.purpleair.com
+2022-08-26 19:42:58,604 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3410
+2022-08-26 19:42:58,623 New data received from PurpleAir api.
+2022-08-26 19:48:38,096 Resetting dropped connection: api.purpleair.com
+2022-08-26 19:48:38,676 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 19:48:38,690 New data received from PurpleAir api.
+2022-08-26 19:54:20,295 Resetting dropped connection: api.purpleair.com
+2022-08-26 19:54:25,848 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3406
+2022-08-26 19:54:25,867 New data received from PurpleAir api.
+2022-08-26 20:00:03,660 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:00:12,517 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 20:00:12,531 New data received from PurpleAir api.
+2022-08-26 20:05:54,203 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:05:59,832 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3408
+2022-08-26 20:05:59,845 New data received from PurpleAir api.
+2022-08-26 20:11:40,994 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:11:46,573 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3406
+2022-08-26 20:11:46,591 New data received from PurpleAir api.
+2022-08-26 20:17:28,166 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:17:33,640 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 20:17:33,658 New data received from PurpleAir api.
+2022-08-26 20:23:15,057 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:23:20,503 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3410
+2022-08-26 20:23:20,538 New data received from PurpleAir api.
+2022-08-26 20:28:58,772 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:29:04,318 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3407
+2022-08-26 20:29:04,337 New data received from PurpleAir api.
+2022-08-26 20:34:45,941 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:34:51,379 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 20:34:51,398 New data received from PurpleAir api.
+2022-08-26 20:40:33,079 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:40:38,658 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 20:40:38,677 New data received from PurpleAir api.
+2022-08-26 20:46:20,296 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:46:25,739 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 20:46:25,758 New data received from PurpleAir api.
+2022-08-26 20:52:03,757 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:52:09,202 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 20:52:09,221 New data received from PurpleAir api.
+2022-08-26 20:57:47,571 Resetting dropped connection: api.purpleair.com
+2022-08-26 20:57:52,989 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 20:57:53,003 New data received from PurpleAir api.
+2022-08-26 21:03:33,788 Resetting dropped connection: api.purpleair.com
+2022-08-26 21:03:39,349 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 21:03:39,426 New data received from PurpleAir api.
+2022-08-26 21:09:21,142 Resetting dropped connection: api.purpleair.com
+2022-08-26 21:09:21,559 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 21:09:21,573 New data received from PurpleAir api.
+2022-08-26 21:14:59,706 Resetting dropped connection: api.purpleair.com
+2022-08-26 21:15:05,142 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 21:15:05,161 New data received from PurpleAir api.
+2022-08-26 21:20:46,918 Resetting dropped connection: api.purpleair.com
+2022-08-26 21:20:52,368 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3405
+2022-08-26 21:20:52,387 New data received from PurpleAir api.
+2022-08-26 21:26:30,679 Resetting dropped connection: api.purpleair.com
+2022-08-26 21:26:36,133 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 21:26:36,154 New data received from PurpleAir api.
+2022-08-26 21:32:14,155 Resetting dropped connection: api.purpleair.com
+2022-08-26 21:32:19,826 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 21:32:19,870 New data received from PurpleAir api.
+2022-08-26 21:38:01,459 Resetting dropped connection: api.purpleair.com
+2022-08-26 21:38:07,048 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 21:38:07,062 New data received from PurpleAir api.
+2022-08-26 21:43:45,081 Resetting dropped connection: api.purpleair.com
+2022-08-26 21:43:50,676 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 21:43:50,695 New data received from PurpleAir api.
+2022-08-26 21:49:28,811 Resetting dropped connection: api.purpleair.com
+2022-08-26 21:49:29,252 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3411
+2022-08-26 21:49:29,266 New data received from PurpleAir api.
+2022-08-26 21:55:10,169 Resetting dropped connection: api.purpleair.com
+2022-08-26 21:55:15,724 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 21:55:15,757 New data received from PurpleAir api.
+2022-08-26 22:00:57,205 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:01:02,659 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 22:01:02,695 New data received from PurpleAir api.
+2022-08-26 22:06:44,359 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:06:49,863 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 22:06:49,877 New data received from PurpleAir api.
+2022-08-26 22:12:28,251 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:12:33,679 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 22:12:33,698 New data received from PurpleAir api.
+2022-08-26 22:18:15,255 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:18:21,219 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 22:18:21,236 New data received from PurpleAir api.
+2022-08-26 22:24:02,981 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:24:08,590 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 22:24:08,619 New data received from PurpleAir api.
+2022-08-26 22:29:50,039 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:29:55,479 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3416
+2022-08-26 22:29:55,498 New data received from PurpleAir api.
+2022-08-26 22:35:36,560 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:35:41,980 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3414
+2022-08-26 22:35:41,999 New data received from PurpleAir api.
+2022-08-26 22:41:23,315 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:41:28,925 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3419
+2022-08-26 22:41:28,945 New data received from PurpleAir api.
+2022-08-26 22:47:10,074 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:47:15,532 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3418
+2022-08-26 22:47:15,551 New data received from PurpleAir api.
+2022-08-26 22:52:53,386 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:52:58,959 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3424
+2022-08-26 22:52:58,978 New data received from PurpleAir api.
+2022-08-26 22:58:36,977 Resetting dropped connection: api.purpleair.com
+2022-08-26 22:58:42,395 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3412
+2022-08-26 22:58:42,415 New data received from PurpleAir api.
+2022-08-26 23:04:20,688 Resetting dropped connection: api.purpleair.com
+2022-08-26 23:04:26,193 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3409
+2022-08-26 23:04:26,229 New data received from PurpleAir api.
+2022-08-26 23:10:05,132 Resetting dropped connection: api.purpleair.com
+2022-08-26 23:10:05,768 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3410
+2022-08-26 23:10:05,783 New data received from PurpleAir api.
+2022-08-26 23:15:44,282 Resetting dropped connection: api.purpleair.com
+2022-08-26 23:15:49,738 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3420
+2022-08-26 23:15:49,758 New data received from PurpleAir api.
+2022-08-26 23:21:28,310 Resetting dropped connection: api.purpleair.com
+2022-08-26 23:21:33,725 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3424
+2022-08-26 23:21:33,747 New data received from PurpleAir api.
+2022-08-26 23:27:12,029 Resetting dropped connection: api.purpleair.com
+2022-08-26 23:27:17,465 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3433
+2022-08-26 23:27:17,487 New data received from PurpleAir api.
+2022-08-26 23:32:56,138 Resetting dropped connection: api.purpleair.com
+2022-08-26 23:33:01,617 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3425
+2022-08-26 23:33:01,656 New data received from PurpleAir api.
+2022-08-26 23:38:39,933 Resetting dropped connection: api.purpleair.com
+2022-08-26 23:38:45,345 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3421
+2022-08-26 23:38:45,364 New data received from PurpleAir api.
+2022-08-26 23:44:24,055 Resetting dropped connection: api.purpleair.com
+2022-08-26 23:44:29,613 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3434
+2022-08-26 23:44:29,632 New data received from PurpleAir api.
+2022-08-26 23:50:07,839 Resetting dropped connection: api.purpleair.com
+2022-08-26 23:50:13,416 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3415
+2022-08-26 23:50:13,435 New data received from PurpleAir api.
+2022-08-26 23:55:53,122 Resetting dropped connection: api.purpleair.com
+2022-08-26 23:55:53,534 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3420
+2022-08-26 23:55:53,548 New data received from PurpleAir api.
+2022-08-27 00:01:35,106 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:01:35,589 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3427
+2022-08-27 00:01:35,613 New data received from PurpleAir api.
+2022-08-27 00:07:15,722 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:07:16,174 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3426
+2022-08-27 00:07:16,189 New data received from PurpleAir api.
+2022-08-27 00:12:57,429 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:13:02,883 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3432
+2022-08-27 00:13:02,917 New data received from PurpleAir api.
+2022-08-27 00:18:44,462 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:18:45,032 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3433
+2022-08-27 00:18:45,046 New data received from PurpleAir api.
+2022-08-27 00:24:26,276 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:24:26,956 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3435
+2022-08-27 00:24:26,970 New data received from PurpleAir api.
+2022-08-27 00:30:08,278 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:30:13,788 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3421
+2022-08-27 00:30:13,807 New data received from PurpleAir api.
+2022-08-27 00:35:51,955 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:35:57,401 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3436
+2022-08-27 00:35:57,420 New data received from PurpleAir api.
+2022-08-27 00:41:38,641 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:41:44,206 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3434
+2022-08-27 00:41:44,221 New data received from PurpleAir api.
+2022-08-27 00:47:25,715 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:47:31,147 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3437
+2022-08-27 00:47:31,168 New data received from PurpleAir api.
+2022-08-27 00:53:12,075 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:53:20,731 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3437
+2022-08-27 00:53:20,749 New data received from PurpleAir api.
+2022-08-27 00:59:02,082 Resetting dropped connection: api.purpleair.com
+2022-08-27 00:59:07,501 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3430
+2022-08-27 00:59:07,520 New data received from PurpleAir api.
+2022-08-27 01:04:48,473 Resetting dropped connection: api.purpleair.com
+2022-08-27 01:04:49,024 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3433
+2022-08-27 01:04:49,039 New data received from PurpleAir api.
+2022-08-27 01:10:30,715 Resetting dropped connection: api.purpleair.com
+2022-08-27 01:10:36,181 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3435
+2022-08-27 01:10:36,200 New data received from PurpleAir api.
+2022-08-27 01:16:14,093 Resetting dropped connection: api.purpleair.com
+2022-08-27 01:16:19,713 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3437
+2022-08-27 01:16:19,732 New data received from PurpleAir api.
+2022-08-27 01:22:01,432 Resetting dropped connection: api.purpleair.com
+2022-08-27 01:22:02,529 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3438
+2022-08-27 01:22:02,546 New data received from PurpleAir api.
+2022-08-27 01:27:43,436 Resetting dropped connection: api.purpleair.com
+2022-08-27 01:27:49,044 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3437
+2022-08-27 01:27:49,063 New data received from PurpleAir api.
+2022-08-27 01:33:27,091 Resetting dropped connection: api.purpleair.com
+2022-08-27 01:33:32,552 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3437
+2022-08-27 01:33:32,573 New data received from PurpleAir api.
+2022-08-27 01:39:13,806 Resetting dropped connection: api.purpleair.com
+2022-08-27 01:39:19,409 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3436
+2022-08-27 01:39:19,428 New data received from PurpleAir api.
+2022-08-27 01:45:01,174 Resetting dropped connection: api.purpleair.com
+2022-08-27 01:45:06,800 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3438
+2022-08-27 01:45:06,814 New data received from PurpleAir api.
+2022-08-27 01:50:48,250 Resetting dropped connection: api.purpleair.com
+2022-08-27 01:50:53,686 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3438
+2022-08-27 01:50:53,707 New data received from PurpleAir api.
+2022-08-27 01:56:34,782 Resetting dropped connection: api.purpleair.com
+2022-08-27 01:56:35,240 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3438
+2022-08-27 01:56:35,254 New data received from PurpleAir api.
+2022-08-27 02:02:13,965 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:02:19,519 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3439
+2022-08-27 02:02:19,539 New data received from PurpleAir api.
+2022-08-27 02:07:57,903 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:08:03,506 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3439
+2022-08-27 02:08:03,525 New data received from PurpleAir api.
+2022-08-27 02:13:41,379 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:13:46,839 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3437
+2022-08-27 02:13:46,859 New data received from PurpleAir api.
+2022-08-27 02:19:25,028 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:19:30,550 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3434
+2022-08-27 02:19:30,569 New data received from PurpleAir api.
+2022-08-27 02:25:12,047 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:25:17,499 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3437
+2022-08-27 02:25:17,519 New data received from PurpleAir api.
+2022-08-27 02:30:58,784 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:31:04,369 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3437
+2022-08-27 02:31:04,387 New data received from PurpleAir api.
+2022-08-27 02:36:42,970 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:36:48,414 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3438
+2022-08-27 02:36:48,433 New data received from PurpleAir api.
+2022-08-27 02:42:26,707 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:42:32,115 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3438
+2022-08-27 02:42:32,134 New data received from PurpleAir api.
+2022-08-27 02:48:13,138 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:48:13,552 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3436
+2022-08-27 02:48:13,566 New data received from PurpleAir api.
+2022-08-27 02:53:54,796 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:54:01,584 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3437
+2022-08-27 02:54:01,598 New data received from PurpleAir api.
+2022-08-27 02:59:42,757 Resetting dropped connection: api.purpleair.com
+2022-08-27 02:59:48,309 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3439
+2022-08-27 02:59:48,328 New data received from PurpleAir api.
+2022-08-27 03:05:30,375 Resetting dropped connection: api.purpleair.com
+2022-08-27 03:05:36,029 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3444
+2022-08-27 03:05:36,048 New data received from PurpleAir api.
+2022-08-27 03:11:14,278 Resetting dropped connection: api.purpleair.com
+2022-08-27 03:11:19,703 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3444
+2022-08-27 03:11:19,722 New data received from PurpleAir api.
+2022-08-27 03:16:58,511 Resetting dropped connection: api.purpleair.com
+2022-08-27 03:16:58,976 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3441
+2022-08-27 03:16:59,011 New data received from PurpleAir api.
+2022-08-27 03:22:40,736 Resetting dropped connection: api.purpleair.com
+2022-08-27 03:22:46,266 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3439
+2022-08-27 03:22:46,285 New data received from PurpleAir api.
+2022-08-27 03:28:24,555 Resetting dropped connection: api.purpleair.com
+2022-08-27 03:28:30,228 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3437
+2022-08-27 03:28:30,242 New data received from PurpleAir api.
+2022-08-27 03:34:12,057 Resetting dropped connection: api.purpleair.com
+2022-08-27 03:34:17,668 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3442
+2022-08-27 03:34:17,691 New data received from PurpleAir api.
+2022-08-27 03:39:59,339 Resetting dropped connection: api.purpleair.com
+2022-08-27 03:40:07,499 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3442
+2022-08-27 03:40:07,513 New data received from PurpleAir api.
+2022-08-27 03:45:46,030 Resetting dropped connection: api.purpleair.com
+2022-08-27 03:45:51,491 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3443
+2022-08-27 03:45:51,520 New data received from PurpleAir api.
+2022-08-27 03:51:30,070 Resetting dropped connection: api.purpleair.com
+2022-08-27 03:51:30,495 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3443
+2022-08-27 03:51:30,529 New data received from PurpleAir api.
+2022-08-27 03:57:12,274 Resetting dropped connection: api.purpleair.com
+2022-08-27 03:57:12,739 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3443
+2022-08-27 03:57:12,753 New data received from PurpleAir api.
+2022-08-27 04:02:54,755 Resetting dropped connection: api.purpleair.com
+2022-08-27 04:03:00,467 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3443
+2022-08-27 04:03:00,487 New data received from PurpleAir api.
+2022-08-27 04:08:39,046 Resetting dropped connection: api.purpleair.com
+2022-08-27 04:08:44,451 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3442
+2022-08-27 04:08:44,471 New data received from PurpleAir api.
+2022-08-27 04:14:22,922 Resetting dropped connection: api.purpleair.com
+2022-08-27 04:14:23,429 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3448
+2022-08-27 04:14:23,453 New data received from PurpleAir api.
+2022-08-27 04:20:01,988 Resetting dropped connection: api.purpleair.com
+2022-08-27 04:20:07,470 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3452
+2022-08-27 04:20:07,509 New data received from PurpleAir api.
+2022-08-27 04:25:46,181 Resetting dropped connection: api.purpleair.com
+2022-08-27 04:25:51,680 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3447
+2022-08-27 04:25:51,699 New data received from PurpleAir api.
+2022-08-27 04:31:33,263 Resetting dropped connection: api.purpleair.com
+2022-08-27 04:31:38,745 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3445
+2022-08-27 04:31:38,765 New data received from PurpleAir api.
+2022-08-27 04:37:17,488 Resetting dropped connection: api.purpleair.com
+2022-08-27 04:37:22,919 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3451
+2022-08-27 04:37:22,933 New data received from PurpleAir api.
+2022-08-27 04:43:03,479 Resetting dropped connection: api.purpleair.com
+2022-08-27 04:43:12,490 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3451
+2022-08-27 04:43:12,506 New data received from PurpleAir api.
+2022-08-27 04:48:54,550 Resetting dropped connection: api.purpleair.com
+2022-08-27 04:48:59,984 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3445
+2022-08-27 04:49:00,026 New data received from PurpleAir api.
+2022-08-27 04:54:41,776 Resetting dropped connection: api.purpleair.com
+2022-08-27 04:54:47,192 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3454
+2022-08-27 04:54:47,211 New data received from PurpleAir api.
+2022-08-27 05:00:28,872 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:00:29,301 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 05:00:29,325 New data received from PurpleAir api.
+2022-08-27 05:06:07,831 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:06:08,316 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3450
+2022-08-27 05:06:08,350 New data received from PurpleAir api.
+2022-08-27 05:11:47,209 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:11:52,649 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 05:11:52,668 New data received from PurpleAir api.
+2022-08-27 05:17:34,681 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:17:35,262 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 05:17:35,277 New data received from PurpleAir api.
+2022-08-27 05:23:17,658 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:23:23,302 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 05:23:23,322 New data received from PurpleAir api.
+2022-08-27 05:29:05,262 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:29:10,718 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 05:29:10,737 New data received from PurpleAir api.
+2022-08-27 05:34:49,436 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:34:54,894 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 05:34:54,908 New data received from PurpleAir api.
+2022-08-27 05:40:33,469 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:40:38,986 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 05:40:39,005 New data received from PurpleAir api.
+2022-08-27 05:46:17,691 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:46:18,201 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 05:46:18,226 New data received from PurpleAir api.
+2022-08-27 05:51:56,841 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:52:03,400 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3447
+2022-08-27 05:52:03,422 New data received from PurpleAir api.
+2022-08-27 05:57:42,158 Resetting dropped connection: api.purpleair.com
+2022-08-27 05:57:47,768 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 05:57:47,787 New data received from PurpleAir api.
+2022-08-27 06:03:29,610 Resetting dropped connection: api.purpleair.com
+2022-08-27 06:03:35,171 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3454
+2022-08-27 06:03:35,185 New data received from PurpleAir api.
+2022-08-27 06:09:13,790 Resetting dropped connection: api.purpleair.com
+2022-08-27 06:09:19,238 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3454
+2022-08-27 06:09:19,257 New data received from PurpleAir api.
+2022-08-27 06:14:58,242 Resetting dropped connection: api.purpleair.com
+2022-08-27 06:15:03,932 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 06:15:03,947 New data received from PurpleAir api.
+2022-08-27 06:20:42,967 Resetting dropped connection: api.purpleair.com
+2022-08-27 06:20:48,374 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3454
+2022-08-27 06:20:48,392 New data received from PurpleAir api.
+2022-08-27 06:26:30,679 Resetting dropped connection: api.purpleair.com
+2022-08-27 06:26:36,383 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 06:26:36,402 New data received from PurpleAir api.
+2022-08-27 06:32:18,417 Resetting dropped connection: api.purpleair.com
+2022-08-27 06:32:23,995 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 06:32:24,009 New data received from PurpleAir api.
+2022-08-27 06:38:06,587 Resetting dropped connection: api.purpleair.com
+2022-08-27 06:38:12,161 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 06:38:12,175 New data received from PurpleAir api.
+2022-08-27 06:43:53,822 Resetting dropped connection: api.purpleair.com
+2022-08-27 06:43:59,293 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 06:43:59,312 New data received from PurpleAir api.
+2022-08-27 06:49:40,881 Resetting dropped connection: api.purpleair.com
+2022-08-27 06:49:46,307 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 06:49:46,326 New data received from PurpleAir api.
+2022-08-27 06:55:28,189 Resetting dropped connection: api.purpleair.com
+2022-08-27 06:55:33,797 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 06:55:33,816 New data received from PurpleAir api.
+2022-08-27 07:01:15,625 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:01:21,153 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 07:01:21,188 New data received from PurpleAir api.
+2022-08-27 07:07:00,065 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:07:05,513 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 07:07:05,532 New data received from PurpleAir api.
+2022-08-27 07:12:46,710 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:12:52,187 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 07:12:52,206 New data received from PurpleAir api.
+2022-08-27 07:18:31,068 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:18:36,802 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3454
+2022-08-27 07:18:36,822 New data received from PurpleAir api.
+2022-08-27 07:24:15,809 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:24:21,402 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 07:24:21,421 New data received from PurpleAir api.
+2022-08-27 07:30:03,277 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:30:08,689 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 07:30:08,707 New data received from PurpleAir api.
+2022-08-27 07:35:50,567 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:35:55,990 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3454
+2022-08-27 07:35:56,010 New data received from PurpleAir api.
+2022-08-27 07:41:38,255 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:41:38,792 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 07:41:38,807 New data received from PurpleAir api.
+2022-08-27 07:47:20,682 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:47:21,118 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3454
+2022-08-27 07:47:21,132 New data received from PurpleAir api.
+2022-08-27 07:53:03,167 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:53:08,591 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 07:53:08,610 New data received from PurpleAir api.
+2022-08-27 07:58:47,501 Resetting dropped connection: api.purpleair.com
+2022-08-27 07:58:52,982 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3452
+2022-08-27 07:58:53,005 New data received from PurpleAir api.
+2022-08-27 08:04:34,900 Resetting dropped connection: api.purpleair.com
+2022-08-27 08:04:40,511 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3453
+2022-08-27 08:04:40,530 New data received from PurpleAir api.
+2022-08-27 08:10:19,373 Resetting dropped connection: api.purpleair.com
+2022-08-27 08:10:24,816 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3452
+2022-08-27 08:10:24,830 New data received from PurpleAir api.
+2022-08-27 08:16:05,815 Resetting dropped connection: api.purpleair.com
+2022-08-27 08:16:11,251 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3458
+2022-08-27 08:16:11,272 New data received from PurpleAir api.
+2022-08-27 08:21:50,232 Resetting dropped connection: api.purpleair.com
+2022-08-27 08:21:50,696 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 08:21:50,721 New data received from PurpleAir api.
+2022-08-27 08:27:29,675 Resetting dropped connection: api.purpleair.com
+2022-08-27 08:27:35,239 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3454
+2022-08-27 08:27:35,258 New data received from PurpleAir api.
+2022-08-27 08:33:13,971 Resetting dropped connection: api.purpleair.com
+2022-08-27 08:33:19,391 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 08:33:19,410 New data received from PurpleAir api.
+2022-08-27 08:39:00,924 Resetting dropped connection: api.purpleair.com
+2022-08-27 08:39:06,475 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 08:39:06,494 New data received from PurpleAir api.
+2022-08-27 08:44:44,963 Resetting dropped connection: api.purpleair.com
+2022-08-27 08:44:50,448 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 08:44:50,467 New data received from PurpleAir api.
+2022-08-27 08:50:32,794 Resetting dropped connection: api.purpleair.com
+2022-08-27 08:50:38,242 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 08:50:38,264 New data received from PurpleAir api.
+2022-08-27 08:56:19,758 Resetting dropped connection: api.purpleair.com
+2022-08-27 08:56:20,269 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 08:56:20,283 New data received from PurpleAir api.
+2022-08-27 09:02:02,553 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:02:09,228 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 09:02:09,242 New data received from PurpleAir api.
+2022-08-27 09:07:48,138 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:07:53,629 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 09:07:53,659 New data received from PurpleAir api.
+2022-08-27 09:13:36,188 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:13:41,677 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3453
+2022-08-27 09:13:41,695 New data received from PurpleAir api.
+2022-08-27 09:19:23,724 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:19:29,329 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 09:19:29,349 New data received from PurpleAir api.
+2022-08-27 09:25:11,382 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:25:17,005 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 09:25:17,020 New data received from PurpleAir api.
+2022-08-27 09:30:57,448 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:31:02,981 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 09:31:03,000 New data received from PurpleAir api.
+2022-08-27 09:36:41,586 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:36:47,013 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 09:36:47,027 New data received from PurpleAir api.
+2022-08-27 09:42:28,893 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:42:34,537 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3458
+2022-08-27 09:42:34,556 New data received from PurpleAir api.
+2022-08-27 09:48:16,385 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:48:21,819 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 09:48:21,838 New data received from PurpleAir api.
+2022-08-27 09:54:00,479 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:54:06,168 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3457
+2022-08-27 09:54:06,199 New data received from PurpleAir api.
+2022-08-27 09:59:48,602 Resetting dropped connection: api.purpleair.com
+2022-08-27 09:59:54,187 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 09:59:54,201 New data received from PurpleAir api.
+2022-08-27 10:05:32,660 Resetting dropped connection: api.purpleair.com
+2022-08-27 10:05:38,109 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3459
+2022-08-27 10:05:38,138 New data received from PurpleAir api.
+2022-08-27 10:11:18,706 Resetting dropped connection: api.purpleair.com
+2022-08-27 10:11:24,331 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3456
+2022-08-27 10:11:24,350 New data received from PurpleAir api.
+2022-08-27 10:17:02,658 Resetting dropped connection: api.purpleair.com
+2022-08-27 10:17:08,140 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3458
+2022-08-27 10:17:08,156 New data received from PurpleAir api.
+2022-08-27 10:22:49,717 Resetting dropped connection: api.purpleair.com
+2022-08-27 10:22:55,300 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3458
+2022-08-27 10:22:55,318 New data received from PurpleAir api.
+2022-08-27 10:28:34,000 Resetting dropped connection: api.purpleair.com
+2022-08-27 10:28:39,495 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3458
+2022-08-27 10:28:39,517 New data received from PurpleAir api.
+2022-08-27 10:34:21,332 Resetting dropped connection: api.purpleair.com
+2022-08-27 10:34:26,755 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3458
+2022-08-27 10:34:26,769 New data received from PurpleAir api.
+2022-08-27 10:40:08,401 Resetting dropped connection: api.purpleair.com
+2022-08-27 10:40:13,993 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3458
+2022-08-27 10:40:14,012 New data received from PurpleAir api.
+2022-08-27 10:45:55,880 Resetting dropped connection: api.purpleair.com
+2022-08-27 10:46:02,271 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3458
+2022-08-27 10:46:02,295 New data received from PurpleAir api.
+2022-08-27 10:51:41,290 Resetting dropped connection: api.purpleair.com
+2022-08-27 10:51:46,823 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3458
+2022-08-27 10:51:46,837 New data received from PurpleAir api.
+2022-08-27 10:57:25,750 Resetting dropped connection: api.purpleair.com
+2022-08-27 10:57:31,374 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3458
+2022-08-27 10:57:31,393 New data received from PurpleAir api.
+2022-08-27 11:03:13,594 Resetting dropped connection: api.purpleair.com
+2022-08-27 11:03:14,063 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 11:03:14,078 New data received from PurpleAir api.
+2022-08-27 11:08:56,527 Resetting dropped connection: api.purpleair.com
+2022-08-27 11:09:02,001 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3450
+2022-08-27 11:09:02,020 New data received from PurpleAir api.
+2022-08-27 11:14:43,934 Resetting dropped connection: api.purpleair.com
+2022-08-27 11:14:49,380 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3453
+2022-08-27 11:14:49,410 New data received from PurpleAir api.
+2022-08-27 11:20:31,636 Resetting dropped connection: api.purpleair.com
+2022-08-27 11:20:37,197 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3449
+2022-08-27 11:20:37,211 New data received from PurpleAir api.
+2022-08-27 11:26:15,264 Resetting dropped connection: api.purpleair.com
+2022-08-27 11:26:20,689 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3452
+2022-08-27 11:26:20,708 New data received from PurpleAir api.
+2022-08-27 11:31:58,852 Resetting dropped connection: api.purpleair.com
+2022-08-27 11:31:59,368 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3449
+2022-08-27 11:31:59,384 New data received from PurpleAir api.
+2022-08-27 11:37:37,762 Resetting dropped connection: api.purpleair.com
+2022-08-27 11:37:43,232 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 11:37:43,251 New data received from PurpleAir api.
+2022-08-27 11:43:25,153 Resetting dropped connection: api.purpleair.com
+2022-08-27 11:43:30,751 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3454
+2022-08-27 11:43:30,765 New data received from PurpleAir api.
+2022-08-27 11:49:09,517 Resetting dropped connection: api.purpleair.com
+2022-08-27 11:49:15,121 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3453
+2022-08-27 11:49:15,135 New data received from PurpleAir api.
+2022-08-27 11:54:53,610 Resetting dropped connection: api.purpleair.com
+2022-08-27 11:54:54,197 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3451
+2022-08-27 11:54:54,211 New data received from PurpleAir api.
+2022-08-27 12:00:32,955 Resetting dropped connection: api.purpleair.com
+2022-08-27 12:00:38,489 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3451
+2022-08-27 12:00:38,508 New data received from PurpleAir api.
+2022-08-27 12:06:20,835 Resetting dropped connection: api.purpleair.com
+2022-08-27 12:06:26,256 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3447
+2022-08-27 12:06:26,275 New data received from PurpleAir api.
+2022-08-27 12:12:08,137 Resetting dropped connection: api.purpleair.com
+2022-08-27 12:12:13,620 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3453
+2022-08-27 12:12:13,650 New data received from PurpleAir api.
+2022-08-27 12:17:55,955 Resetting dropped connection: api.purpleair.com
+2022-08-27 12:18:01,879 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3455
+2022-08-27 12:18:01,893 New data received from PurpleAir api.
+2022-08-27 12:23:43,911 Resetting dropped connection: api.purpleair.com
+2022-08-27 12:23:44,439 https://api.purpleair.com:443 "GET /v1/sensors/104402?sensor_index=104402 HTTP/1.1" 200 3452
+2022-08-27 12:23:44,453 New data received from PurpleAir api.
